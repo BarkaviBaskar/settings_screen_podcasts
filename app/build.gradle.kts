@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.podcastssetting"
+    namespace = "com.example.settingsscreen"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.podcastssetting"
+        applicationId = "com.example.settingsscreen"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
